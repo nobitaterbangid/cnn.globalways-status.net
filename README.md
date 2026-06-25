@@ -1,0 +1,1 @@
+# cnn.globalways-status.net
